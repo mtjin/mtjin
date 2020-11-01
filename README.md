@@ -1,7 +1,6 @@
 ### Hi there 👋
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtjin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/mtjin/mtjin.svg)](http://hits.dwyl.com/mtjin/mtjin)
 - 🔭 I’m currently working on CNU Student
 - 🌱 I’m currently learning CS, Algorithm, Android, RxJava2
 - 👯 I’m looking to collaborate on ...
