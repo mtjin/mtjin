@@ -1,6 +1,5 @@
 ### Hi there 👋
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtjin)](https://github.com/anuraghazra/github-readme-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmtjin&count_bg=%2395F9EE&title_bg=%23354041&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - 🔭 I’m currently working on CNU Student
 - 🌱 I’m currently learning CS, Algorithm, Android, RxJava2
 - 👯 I’m looking to collaborate on ...
