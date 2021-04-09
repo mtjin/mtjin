@@ -1,5 +1,6 @@
 ### Hi there 👋
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtjin)](https://github.com/anuraghazra/github-readme-stats)
+ [![tmddjs210](http://mazassumnida.wtf/api/generate_badge?boj=tmddjs210)](https://solved.ac/tmddjs210)
 - [이력서(Resume)](https://www.notion.so/Jin-Seung-Eon-f3db7eb57ad44dbfa79662f55877b186)
 - [프로젝트(Project)](https://www.notion.so/16398480dae644d9ad23baf431c26fff)
 
